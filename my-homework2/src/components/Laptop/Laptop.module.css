@@ -1,0 +1,9 @@
+.Laptops {
+    display: flex;
+    font-size: 40px;  
+    margin-left: 400px;
+    list-style: none;
+}
+.Laptop {
+    margin-left: 60px;
+}
