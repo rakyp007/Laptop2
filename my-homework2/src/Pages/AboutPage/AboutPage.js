@@ -1,9 +1,10 @@
-import { Feature } from "../../components/Features/feature"
+import { Header } from "../../components/Headers/Header"
+
 
 function AboutPage() {
     return (
         <>
-       <Feature/>
+       <Header/>
         </>
     )
 }

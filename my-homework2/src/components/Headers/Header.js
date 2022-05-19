@@ -1,8 +1,8 @@
-import classes from "./Feature.module.css"
+import classes from "./Header.module.css"
 
 
 
-export const Feature = () => {
+export const Header= () => {
     return (
         <ul className={classes.nots} >
             <li className={classes.link}>Feature</li>
